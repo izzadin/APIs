@@ -1,0 +1,16 @@
+{
+  "serviceCategoryList": [
+    {
+      "id": 1,
+      "name": "attendance",
+      "isActive": true,
+      "isDeleted": false
+    },
+    {
+      "id": 2,
+      "name": "coming soon",
+      "isActive": true,
+      "isDeleted": false
+    }
+  ]
+}
