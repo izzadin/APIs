@@ -1,0 +1,34 @@
+{
+"serviceList": [
+{
+"id": 3,
+"name": "سجل الحضور",
+"iconName": "menu_book",
+"serviceCategoryId": 1
+},
+{
+"id": 1,
+"name": "تسجيل الهاتف",
+"iconName": "how_to_reg",
+"serviceCategoryId": 1
+},
+{
+"id": 5,
+"name": "إعادة تعيين الهاتف",
+"iconName": "lock_reset",
+"serviceCategoryId": 1
+},
+{
+"id": 4,
+"name": "التأخير التراكمي",
+"iconName": "hourglass_bottom",
+"serviceCategoryId": 1
+},
+{
+"id": 2,
+"name": "الحضور و الإنصراف",
+"iconName": "qr_code",
+"serviceCategoryId": 1
+}
+]
+}
