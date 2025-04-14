@@ -1,16 +1,1 @@
-{
-  "serviceCategoryList": [
-    {
-      "id": 1,
-      "name": "attendance",
-      "isActive": true,
-      "isDeleted": false
-    },
-    {
-      "id": 2,
-      "name": "coming soon",
-      "isActive": true,
-      "isDeleted": false
-    }
-  ]
-}
+{"serviceCategoryList":[{"id":1,"name":"نظام الحضور و الإنصراف","isActive":true,"isDeleted":false},{"id":2,"name":"coming soon!","isActive":true,"isDeleted":false}]}
