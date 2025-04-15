@@ -7,12 +7,6 @@
 "serviceCategoryId": 1
 },
 {
-"id": 1,
-"name": "تسجيل الهاتف",
-"iconName": "how_to_reg",
-"serviceCategoryId": 1
-},
-{
 "id": 5,
 "name": "إعادة تعيين الهاتف",
 "iconName": "lock_reset",
